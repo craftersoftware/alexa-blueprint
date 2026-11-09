@@ -18,7 +18,7 @@ plugin:
     patch: 44
   description: |
     Simple Alexa skill blueprint
-  documentation: https://raw.githubusercontent.com/craftercms/alexa-blueprint/next/readme.md
+  documentation: https://raw.githubusercontent.com/craftersoftware/alexa-blueprint/4/readme.md
   website:
     name: Alexa Skill Blueprint
     url: https://craftercms.org
@@ -26,7 +26,7 @@ plugin:
     screenshots:
       - title: Alexa Test Console
         description: Alexa skill and testing console
-        url: https://raw.githubusercontent.com/craftercms/alexa-blueprint/next/.crafter/screenshots/default.png
+        url: https://raw.githubusercontent.com/craftersoftware/alexa-blueprint/4/.crafter/screenshots/default.png
   developer:
     company:
       name: CrafterCMS
