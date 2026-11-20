@@ -15,7 +15,7 @@ plugin:
   version:
     major: 3
     minor: 1
-    patch: 1
+    patch: 2
   description: |
     Simple Alexa skill blueprint
   documentation: https://raw.githubusercontent.com/craftersoftware/alexa-blueprint/5/readme.md
